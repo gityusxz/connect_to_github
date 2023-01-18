@@ -1,5 +1,5 @@
 token connect_to_github
 
-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
+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   perubahan token
 
 ini tokennya yaaa mas
